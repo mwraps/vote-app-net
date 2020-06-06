@@ -8,6 +8,8 @@
     <SpaRoot>ClientApp\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
     <RootNamespace>vote_app</RootNamespace>
+    <DockerComposeProjectPath>../docker-compose.dcproj</DockerComposeProjectPath>
+    <UserSecretsId>69677938-581a-40f7-bd1b-e1c9dd7dd183</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
